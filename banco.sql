@@ -6,4 +6,4 @@ CREATE TABLE IF NOT EXISTS produtos(
     preco DECIMAL(10,2),
     imagem VARCHAR(300)
 );
-INSERT INTO produtos VALUES (1,'Iphone','Celular RUIM',5000.50,'https://m.media-amazon.com/images/I/41TqO2RM7QL._AC_SX679_.jpg');
+INSERT INTO produtos VALUES (1,'Iphone','Celular RUIM',5000.50,'SEM IMAGEM');
